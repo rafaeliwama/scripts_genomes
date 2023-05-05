@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-## usage: python3 select_best_sra_transcriptomes.py <SRARunInfo_file>
+## usage: python3 select_best_sra_transcriptomes.py <SRA_RunInfo_file>
 ## required packages: pandas
 ## selects best SRA transcriptome runs of each species based on size. It gives preference for paired runs
 
